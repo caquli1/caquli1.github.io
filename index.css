@@ -12,4 +12,6 @@ a{
     display: flex;
     justify-content: center;
     margin-top: 18%;
+    text-decoration: none;
+    color: inherit;
 }
