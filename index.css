@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "font";
+    src: url(sfmedium.OTF);
+}
+body{
+    font-family: "font";
+    background-color: rgb(236, 236, 205);
+    color: black;
+}
+a{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 18%;
+}
