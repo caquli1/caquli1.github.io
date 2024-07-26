@@ -4,8 +4,7 @@
 }
 body{
     font-family: "font";
-    color: white;
-    background-color: black;
+    color: rgb(0, 0, 0);
 }
 .myworld{
     width: 100px;
