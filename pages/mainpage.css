@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "font";
+    src: url(../sfmedium.OTF);
+}
+body{
+    font-family: "font";
+    color: white;
+}
+.myworld{
+    width: 100px;
+    height: 100px;
+    background-color: darkred;
+}
