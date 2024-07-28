@@ -7,6 +7,9 @@ body{
     color: white;
     background-color: black;
 }
+.flex-container{
+    display: flex;
+}
 .WTC{
     width: 100px;
     height: 100px;
