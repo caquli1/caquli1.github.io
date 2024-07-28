@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "font";
+    src: url();
+}
+body{
+    font-family: "font";
+    color: white;
+    background-color: black;
+}
+.WTC{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(117, 45, 45);
+    text-decoration: none;
+    color: inherit;
+}
+.other{
+    width: 100px;
+    height: 100px;
+    background-color: indianred;
+    text-decoration: none;
+    color: inherit;
+}
