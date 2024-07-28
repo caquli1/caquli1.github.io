@@ -10,14 +10,14 @@ body{
 .WTC{
     width: 100px;
     height: 100px;
-    background-color: rgb(117, 45, 45);
+    background-color: rgb(145, 95, 54);
     text-decoration: none;
     color: inherit;
 }
 .other{
     width: 100px;
     height: 100px;
-    background-color: indianred;
+    background-color: rgb(124, 88, 148);
     text-decoration: none;
     color: inherit;
 }
