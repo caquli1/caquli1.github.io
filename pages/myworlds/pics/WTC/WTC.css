@@ -9,4 +9,5 @@ body{
 }
 .flex-container{
     display: flex;
+    aspect-ratio: auto 150/150;
 }
