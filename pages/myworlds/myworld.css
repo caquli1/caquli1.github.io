@@ -21,3 +21,10 @@ body{
     text-decoration: none;
     color: inherit;
 }
+.pics{
+    width: 100px;
+    height: 100px;
+    background-color: chocolate;
+    text-decoration: none;
+    color: inherit;
+}
