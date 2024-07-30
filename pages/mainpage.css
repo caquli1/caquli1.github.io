@@ -7,10 +7,6 @@ body{
     color: white;
     background-color: black;
 }
-.flex-container{
-    display: flex;
-    gap: 10px;
-}
 .myworld{
     width: 100px;
     height: 100px;
