@@ -14,3 +14,10 @@ body{
     text-decoration: none;
     color: inherit;
 }
+.gif{
+    width: 100px;
+    height: 100px;
+    background-color: fuchsia;
+    text-decoration: none;
+    color: inherit;
+}
