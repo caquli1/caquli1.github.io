@@ -29,7 +29,6 @@ body{
 }
 .modal__window {
     position: relative;
-    background-color: white;
     padding: 4em 2em;
 }
 .modal__close {
