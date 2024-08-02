@@ -29,6 +29,7 @@ body{
 }
 .modal__window {
     position: relative;
+    background: transparent;
     padding: 4em 2em;
 }
 .modal__close {
