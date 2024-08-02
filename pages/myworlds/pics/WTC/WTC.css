@@ -22,8 +22,22 @@ body{
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(255, 0, 0, 0.5);
+    background-color: rgba(0,0,0,.5);
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.modal__window {
+    position: relative;
+    background-color: white;
+    padding: 4em 2em;
+}
+.modal__close {
+    position: absolute;
+    top: -30px;
+    right: 0;
+}
+#modal:not(:target) {
+    visibility: hidden;
+    opacity: 0;
 }
