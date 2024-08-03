@@ -16,7 +16,7 @@ body{
     background: transparent;
     aspect-ratio: auto 150/150;
 }
-#modal {
+.modal {
     position: fixed;
     top: 0;
     left: 0;
