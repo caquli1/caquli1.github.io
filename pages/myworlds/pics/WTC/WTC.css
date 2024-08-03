@@ -38,7 +38,7 @@ body{
     top: -30px;
     right: 0;
 }
-#modal:not(:target) {
+.modal:not(:target) {
     visibility: hidden;
     opacity: 0;
 }
