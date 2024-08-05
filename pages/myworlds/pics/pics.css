@@ -15,8 +15,8 @@ body{
     width: 100px;
     height: 100px;
     background-color: rgb(145, 95, 54);
-    text-decoration: none;
     color: inherit;
+    text-decoration: none;
 }
 .other{
     width: 100px;
