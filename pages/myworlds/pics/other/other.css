@@ -10,8 +10,7 @@ body{
 .flex-container{
     display: flex;
     gap: 12px;
-    background: transparent;
-    aspect-ratio: auto 150/150;
+    aspect-ratio: auto;
 }
 #myImg {
     border-radius: 5px;
