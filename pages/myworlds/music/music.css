@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "font";
+    src: url(sfmedium.OTF);
+}
+body{
+    font-family: "font";
+    color: white;
+    background-color: black;
+}

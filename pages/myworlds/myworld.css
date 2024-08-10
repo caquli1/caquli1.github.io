@@ -32,3 +32,10 @@ body{
     text-decoration: none;
     color: inherit;
 }
+.music{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(105, 29, 150);
+    text-decoration: none;
+    color: inherit;
+}
